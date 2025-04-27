@@ -1,0 +1,16 @@
+INSERT INTO product(name, `description`, brand, price, category, release_date, available, quantity) VALUES
+('Wireless Mouse', 'Ergonomic wireless mouse with fast scrolling', 'Logitech', 1499.99, 'Electronics', '2024-10-01', true, 50),
+('Running Shoes', 'Lightweight running shoes for men', 'Nike', 4999.50, 'Footwear', '2023-05-15', true, 100),
+('Smart LED TV 55 Inch', '4K Ultra HD Smart LED TV with voice control', 'Samsung', 45999.00, 'Home Appliances', '2022-11-20', true, 30),
+('Bluetooth Headphones', 'Over-ear noise-cancelling headphones', 'Sony', 7999.99, 'Electronics', '2023-08-10', false, 0),
+('Men''s Casual Shirt', 'Cotton casual shirt for men, slim fit', 'Levi''s', 2499.00, 'Clothing', '2024-02-28', true, 75),
+('Gaming Keyboard', 'RGB mechanical keyboard with anti-ghosting', 'Corsair', 6999.00, 'Electronics', '2023-09-12', true, 40),
+('Office Chair', 'Ergonomic office chair with lumbar support', 'GreenSoul', 8499.99, 'Furniture', '2022-07-19', true, 25),
+('Water Bottle', 'Insulated stainless steel water bottle 750ml', 'Milton', 999.50, 'Kitchenware', '2024-01-10', true, 200),
+('Fitness Tracker', 'Smart fitness band with heart rate monitor', 'Fitbit', 2999.00, 'Wearables', '2023-03-01', true, 120),
+('Laptop Backpack', 'Water-resistant laptop backpack 15.6 inch', 'Wildcraft', 2499.99, 'Bags', '2022-12-05', true, 80),
+('Electric Kettle', '1.5L electric kettle with auto shut-off', 'Philips', 1999.00, 'Home Appliances', '2023-06-25', true, 60),
+('Smartphone', '5G smartphone with 128GB storage', 'OnePlus', 34999.00, 'Electronics', '2024-03-20', true, 70),
+('Table Lamp', 'LED table lamp with touch control', 'Wipro', 1499.50, 'Home Decor', '2022-10-18', true, 90),
+('Bluetooth Speaker', 'Portable waterproof Bluetooth speaker', 'boAt', 2999.00, 'Electronics', '2023-08-07', true, 110),
+('Men''s Sneakers', 'Comfortable casual sneakers for men', 'Adidas', 4599.00, 'Footwear', '2023-11-22', true, 65);
