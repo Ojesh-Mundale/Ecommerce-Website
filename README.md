@@ -32,6 +32,6 @@ An elegant, full-stack **Ecommerce Web Application** built using **React + Vite*
 
 ### 🚀 Backend
 - **Spring Boot**
-- **Java 17**
+- **Java 21**
 - **Spring Data JPA**
 - **RESTful APIs**
