@@ -16,7 +16,7 @@ An elegant, full-stack **Ecommerce Web Application** built using **React + Vite*
 - 🧺 Shopping cart functionality
 - 🔄 Client-side routing with `react-router-dom`
 - 🌐 REST API integration with Spring Boot
-- 📦 Backend handles products, orders, and users
+- 📦 Backend handles products, orders
 - 🎨 Bootstrap 5 and Sass for responsive design
 - ⚡ Vite for fast development and HMR
 - 📡 Axios for API calls
