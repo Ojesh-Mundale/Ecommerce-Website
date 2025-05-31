@@ -1,7 +1,7 @@
-package com.telusko.ecom_proj.service;
+package com.ECommerce.ecom_proj.service;
 
-import com.telusko.ecom_proj.model.Product;
-import com.telusko.ecom_proj.repo.ProductRepo;
+import com.ECommerce.ecom_proj.model.Product;
+import com.ECommerce.ecom_proj.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

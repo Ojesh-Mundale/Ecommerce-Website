@@ -1,6 +1,6 @@
-package com.telusko.ecom_proj.repo;
+package com.ECommerce.ecom_proj.repo;
 
-import com.telusko.ecom_proj.model.Product;
+import com.ECommerce.ecom_proj.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

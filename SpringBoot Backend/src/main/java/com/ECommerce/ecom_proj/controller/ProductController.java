@@ -1,7 +1,7 @@
-package com.telusko.ecom_proj.controller;
+package com.ECommerce.ecom_proj.controller;
 
-import com.telusko.ecom_proj.model.Product;
-import com.telusko.ecom_proj.service.ProductService;
+import com.ECommerce.ecom_proj.model.Product;
+import com.ECommerce.ecom_proj.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
